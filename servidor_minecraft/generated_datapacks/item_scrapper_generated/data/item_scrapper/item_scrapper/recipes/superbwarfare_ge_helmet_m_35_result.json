@@ -1,0 +1,19 @@
+{
+  "superbwarfare:ge_helmet_m_35": [
+    {
+      "explosionPower": 0.0,
+      "roundingType": "STANDARD",
+      "requiredHits": 3.0,
+      "explosionChance": 0.0,
+      "lootable": {
+        "amountForMaxReturn": 1,
+        "autoGenerateFromRecipe": true,
+        "recipeId": "superbwarfare:ge_helmet_m_35",
+        "returnAmount": {
+          "min": 30.0,
+          "max": 70.0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	id: "a491f31e-38f0-306b-a36e-6c1e7932a306"
+	type: "player"
+	player_name: "AFKawa"
+	ranks: {
+		a491f31e-38f0-306b-a36e-6c1e7932a306: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AFKawa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

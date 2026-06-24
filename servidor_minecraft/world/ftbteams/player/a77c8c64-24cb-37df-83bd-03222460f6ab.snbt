@@ -1,0 +1,17 @@
+{
+	id: "a77c8c64-24cb-37df-83bd-03222460f6ab"
+	type: "player"
+	player_name: "drake080"
+	ranks: {
+		a77c8c64-24cb-37df-83bd-03222460f6ab: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "drake080"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
